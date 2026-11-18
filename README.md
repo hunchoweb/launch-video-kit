@@ -19,6 +19,7 @@ The whole film is **code**: a [Remotion](https://www.remotion.dev) (React) proje
 
 | Path | What |
 |---|---|
+| `KICKSTART.md` | The one prompt to start your own film |
 | `PROMPTS.md` | The prompts I used, in order, as fill-in templates, plus the critique prompt |
 | `INSTALL.md` | Install commands for every skill and the licences to check |
 | `skills/launch-video-playbook/` | Generic playbook: steps, story spine, camera, principles, lessons, review checklist; `moves.md` has Remotion code for each move |
@@ -28,8 +29,6 @@ The whole film is **code**: a [Remotion](https://www.remotion.dev) (React) proje
 
 ## Start
 
-1. Follow `INSTALL.md`.
-2. Open Claude Code in your product's repo, put your reference video in it.
-3. Send prompt 1 from `PROMPTS.md`.
+Open **[KICKSTART.md](KICKSTART.md)**, fill in four blanks, and paste it into Claude Code in your product's repo along with a reference video. Claude installs the kit itself.
 
 Expect a few hours of back-and-forth and several renders, not one prompt.
